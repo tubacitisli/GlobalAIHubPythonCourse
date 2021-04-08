@@ -1,5 +1,10 @@
-#Explain your work
+#HomeWork 1
 
-#Question 1
-for x in range(a):
-	print(a)
+#Answer 1
+
+myList = list (range(10))
+
+a = myList [:5]
+b = myList [5:]
+
+print ("My New List: ", b + a)
