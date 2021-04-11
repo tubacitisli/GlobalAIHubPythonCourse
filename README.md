@@ -1,5 +1,4 @@
-# GAIH Student Repo Example
-![](img/newlogo.png)
+
 
 **Course Date:** DD.MM.YYYY  
 **Name:** Gülkız Tuba  
